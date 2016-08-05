@@ -189,7 +189,7 @@ the time comes to publish or present it.
 
 We will have an official lab get-together at least once a semester, and encourage lab members to take the initiative to organize more. The lab band’s name is *Microbial Annex*. Our flag is a blue rectangle (atmosphere, GHGs) over a green rectangle (biomass) over a brown rectangle (soils) with a white ring in the middle (microbes, biogeochemical cycles).
 
-![flag](../../Lab/Whitman_Lab_Flag.jpg =200x)
+![flag](Whitman_Lab_Flag.jpg =200x)
 
 **Code of Conduct and Ethics**
 
